@@ -1,4 +1,4 @@
-﻿COdigo ;Departamento;COdigo ;Municipio;COdigo ;Nombre;"Tipo
+﻿Codigo_Col;Departamento;Codigo_Dep ;Municipio;Codigo_Mun ;Nombre;"Tipo
 ";Longitud;Latitud
 5;ANTIOQUIA;5001;MEDELLIN;5001000;MEDELLIN, DISTRITO ESPECIAL DE CIENCIA, TECNOLOGIA E INNOVACION;CM;-75,578661;6,250063
 5;ANTIOQUIA;5001;MEDELLIN;5001001;PALMITAS;CP;-75,690039;6,343329
